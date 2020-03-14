@@ -25,6 +25,12 @@ including
   - Auto-encoder 查询异常值
   - Python 包说明
 
+We publish our package with some internal functions, install with
+
+``` bash
+pip install ncaa-march-madness-2020
+```
+
 ## How to use
 
 All notebooks work in the `analysis` directory, and save all data files
@@ -125,7 +131,7 @@ contributing to this project, you agree to abide by its terms.
 
 <h6 align="center">
 
-What license it uses © [Jiaxiang Li;Jiatao Li;Zhipeng Liang;Yue
+Apache License (\>= 2.0) © [Jiaxiang Li;Jiatao Li;Zhipeng Liang;Yue
 Pan](https://github.com/JiaxiangBU/ncaa-march-madness-2020/blob/master/LICENSE.md)
 
 </h6>
