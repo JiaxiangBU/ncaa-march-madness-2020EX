@@ -108,6 +108,11 @@ mkdir input/google-cloud-ncaa-march-madness-2020-division-1-mens-tournament
 unzip input/google-cloud-ncaa-march-madness-2020-division-1-mens-tournament.zip -d input/google-cloud-ncaa-march-madness-2020-division-1-mens-tournament
 ```
 
+## More
+
+Do the feature engineering on goal and spots with distance(Nandakumar
+2020)
+
 <h4 align="center">
 
 **Code of Conduct**
@@ -135,3 +140,17 @@ Apache License (\>= 2.0) © [Jiaxiang Li;Jiatao Li;Zhipeng Liang;Yue
 Pan](https://github.com/JiaxiangBU/ncaa-march-madness-2020/blob/master/LICENSE.md)
 
 </h6>
+
+## Reference
+
+<div id="refs" class="references">
+
+<div id="ref-Nandakumar2020">
+
+Nandakumar, Namita. 2020. “R + Tidyverse in Sports.” RStudio Conference
+2020. 2020.
+<https://resources.rstudio.com/rstudio-conf-2020/r-tidyverse-in-sports-namita-nandakumar>.
+
+</div>
+
+</div>
