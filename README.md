@@ -110,8 +110,11 @@ unzip input/google-cloud-ncaa-march-madness-2020-division-1-mens-tournament.zip 
 
 ## More
 
-Do the feature engineering on goal and spots with distance(Nandakumar
-2020)
+1.  Do the feature engineering on goal and spots with
+    distance(Nandakumar 2020)
+2.  We ignore the multicollinearity detection in the feature, we choose
+    XGBoost, thus it handles this problem itself, see more
+    <https://datascience.stackexchange.com/a/39806/60879>.
 
 <h4 align="center">
 
